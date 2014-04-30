@@ -12,7 +12,9 @@
     "dependencies": {
 
     },
-    "requirements": {
-        "x":"y"
-    }
+    "requirements": [
+        {
+            "x":"y"
+        }
+    ]
 }
